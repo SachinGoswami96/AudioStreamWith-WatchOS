@@ -27,7 +27,9 @@ https://user-images.githubusercontent.com/84636883/205601660-5675e25b-53eb-4b9c-
 
 
 Sachin Goswami
-![IMG_2781 (1)](https://user-images.githubusercontent.com/84636883/205602537-a83a4fcf-f220-408c-91fb-7efb252942ba.jpg)
+
+
+<img src = "https://github.com/SachinGoswami96/MyFiles/blob/main/IMG_2781%20(1).jpg" width="150" height="150"/>
 
 <p align="center">
 <a href = "https://github.com/SachinGoswami96"><img src = "https://github.com/harshalrj25/MasterAssetsRepo/blob/master/gitHubLogo.png" width="32" height = "33"/></a>
