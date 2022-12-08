@@ -1,9 +1,4 @@
 # AudioStreamDemo With WatchOS :loudspeaker:
-[![CI Status](http://img.shields.io/travis/harshalrj25/AnimatableReload.svg?style=flat)](https://travis-ci.org/harshalrj25/AnimatableReload)
-[![Version](https://img.shields.io/cocoapods/v/AnimatableReload.svg?style=flat)](http://cocoapods.org/pods/AnimatableReload)
-[![License](https://img.shields.io/cocoapods/l/AnimatableReload.svg?style=flat)](http://cocoapods.org/pods/AnimatableReload)
-[![Platform](https://img.shields.io/cocoapods/p/AnimatableReload.svg?style=flat)](http://cocoapods.org/pods/AnimatableReload)
-
 ## A swift implementation to play audio urls With Watch OS :radio: :musical_note: :notes:
 
 Use the PlayerViewController class to make changes in the audio player.
